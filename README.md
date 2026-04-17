@@ -47,7 +47,7 @@ Domain Layer (Business Logic)
 Infrastructure Layer (Database)
 ```
 
-### 2. **Khàng Lại Các Quy Tắc Kinh Doanh**
+### 2. **Khẳng Định Lại Các Quy Tắc Kinh Doanh**
 Các quy tắc kinh doanh trong ứng dụng cần được bảo vệ từ những thay đổi bên ngoài.
 
 **Giải Pháp:** **Domain-Driven Design (DDD)** đóng gói logic kinh doanh vào Entities, Aggregates, và Domain 
